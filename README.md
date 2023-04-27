@@ -21,17 +21,29 @@ import all data in the DB file from the CSV file
 Make a connection with Pandas data frame with the DB file
 # Data Insight
 Total number of Ted talk
+
 Author how had more than 1 Tedtalk
+
 Author How had Maximum Tedtalk
+
 Ranked all authors based on the number of Tedtalk
+
 Total number of view
+
 Total number of like
+
 First 5 ted talks according to Date
+
 Last 5 ted talks According to Date
+
 Top 5 Ted talks which got maximum/Minimum Likes/Views
+
 Number of Ted talks each year
+
 Total like/views in each year
+
 So these are some Points Which I found from the dataset.
+
 
 #Thank You.
 
