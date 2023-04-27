@@ -1,0 +1,1 @@
+# Ted-Talk-SQL-analysis
