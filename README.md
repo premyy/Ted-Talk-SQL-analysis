@@ -9,11 +9,17 @@ https://drive.google.com/file/d/1IArJ2sc6Eq0Cj_LMpCBbVDUNAjP2DHn4/view
 🛠️ Requirements
 
 Pandas
+
 NumPy
+
 CSV
+
 SQLite 3
+
 path lib
+
 matplotlib
+
 # Connection
 Create a database (because this dataset is in CSV format)
 Create a SQL table
